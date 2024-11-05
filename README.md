@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando e resolvendo bugs desde que me conheço por gente <br>📚 Atualmente estou estudando no IFPR no curso de informática <br>🎯 Minhas metas são passar na Unioeste ou para o TADS do IFPR, além de me tornar melhor como programador e pessoa <br></p>
+<p align="left">✨ Criando e resolvendo bugs desde que me conheço por gente <br>📚 Atualmente estou estudando no IFPR no curso técnico de informática <br>🎯 Minhas metas são passar na Unioeste ou para o TADS do IFPR, além de me tornar melhor como programador e pessoa <br></p>
 
 ###
 
