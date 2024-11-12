@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Sobre Mim</h2>
+<h2 align="left">👤 Sobre Mim</h2>
 <p align="left">
   ✨ Sou apaixonado por programar e resolver bugs desde sempre. <br>
   📚 Atualmente, estou no <strong>IFPR</strong> focado em programação e tecnologia.<br>
@@ -18,9 +18,9 @@
 
 ###
 
-<h2 align="left">Minhas Habilidades</h2>
+<h2 align="left">🛠️ Minhas Habilidades</h2>
 
-<h3 align="left">Tenho experiência em:</h3>
+<h3 align="left">🌟 Tenho experiência em:</h3>
 <div align="center">
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="HTML" title="HTML"/>
   <img width="12" />
@@ -47,7 +47,7 @@
 
 ###
 
-<h3 align="left">Estou aprendendo:</h3>
+<h3 align="left">📚 Estou aprendendo:</h3>
 <div align="center">
   <img src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000" height="40" alt="PHP" title="PHP"/>
   <img width="12" />
@@ -67,8 +67,8 @@
 <h2 align="left">🚀 Meus Projetos</h2>
 <p align="left">Aqui estão alguns dos meus projetos mais recentes:</p>
 <ul>
-  <li><a href="https://github.com/jailsonneve/Projetos-Html/tree/main/Projetos/loja" target="_blank">Loja Online Simples</a> - Uma aplicação web simples para e-commerce, onde usuários podem comprar e vender produtos.</li>
-  <li><a href="#aindaNaoPresente" target="_blank">Portfólio Django</a> - Um site desenvolvido com Django para hospedar portfólios de diferentes usuários.</li>
+  <li><a href="https://github.com/jailsonneve/Projetos-Html/tree/main/Projetos/loja" target="_blank">Loja Online Simples</a> - Uma aplicação web simples que simula uma loja online, onde usuários podem adicionar, remover itens do carrinho. Além de claro, calculo do valor à pagar. Terá mais atualizações</li>
+  <li><a href="#aindaNaoPresente" target="_blank">Portfólio Django</a> - Um site em desenvolvimento com Django para hospedar portfólios de diferentes usuários. Com o objetivo de dar mais visibilidade ao usuário no mercado de trabalho.</li>
 </ul>
 
 ###
