@@ -73,6 +73,14 @@
 
 ###
 
+<h2 align="left">📁 Meus Principais Repositórios:</h2>
+<p align="left">Aqui estão alguns dos meus repositórios mais interessantes:</p>
+<ul>
+  <li><a href="https://github.com/jailsonneve/Projetos-Html" target="_blank">Repositório com Projetos HTML5</a> - Um repositório simples, onde faço uso principalmente de html5, js, bootstrap e css</li>
+</ul>
+
+###
+
 <h2 align="left">🎮 Meus Hobbies</h2>
 <ul>
   <li>Programar</li>
