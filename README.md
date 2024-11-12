@@ -1,78 +1,124 @@
-<h1 align="left">Olá 👋 Como vai?</h1>
+<h1 align="left">Olá, eu sou o Arthur Henrique Dai 👋</h1>
 
-###
-
-<p align="left">Meu nome é Arthur, pode me chamar de JailsonNeve mesmo. Sou de Cascavel e estudo no IFPR</p>
+<p align="left">Tenho 17 anos, sou de <strong>Cascavel, Paraná, Brasil</strong>, e estudo no <strong>IFPR - Campus Cascavel</strong> no curso técnico de informática.</p>
 
 ###
 
 <h2 align="left">Sobre Mim</h2>
+<p align="left">
+  ✨ Sou apaixonado por programar e resolver bugs desde sempre. <br>
+  📚 Atualmente, estou no <strong>IFPR</strong> focado em programação e tecnologia.<br>
+  🎯 Minhas metas são:
+  <ul>
+    <li>Passar na <strong>Unioeste</strong> ou ingressar no <strong>TADS</strong> do <strong>IFPR - Campus Cascavel</strong></li>
+    <li>Me tornar um programador melhor e evoluir como pessoa</li>
+    <li>Programar principalmente para <strong>Inteligência Artificial (IA)</strong> e <strong>jogos</strong></li>
+  </ul>
+</p>
 
 ###
 
-<p align="left">✨ Criando e resolvendo bugs desde que me conheço por gente <br>📚 Atualmente estou estudando no IFPR no curso técnico de informática <br>🎯 Minhas metas são passar na Unioeste ou para o TADS do IFPR, além de me tornar melhor como programador e pessoa <br></p>
+<h2 align="left">Minhas Habilidades</h2>
 
-###
-
-<h2 align="left">Tenho Experiência em Usar/Programar</h2>
-
-###
-
+<h3 align="left">Tenho experiência em:</h3>
 <div align="center">
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="html logo" title="HTML"/>
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="HTML" title="HTML"/>
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="40" alt="css logo" title="CSS"/>
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="40" alt="CSS" title="CSS"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=lXPUSRCongH1&format=png&color=000000" height="40" alt="python logo" title="Python"/>
+  <img src="https://img.icons8.com/?size=100&id=lXPUSRCongH1&format=png&color=000000" height="40" alt="Python" title="Python"/>
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=5OD485koNIrb&format=png&color=000000" height="40" alt="java logo" title="Java"/>
+  <img src="https://img.icons8.com/?size=100&id=5OD485koNIrb&format=png&color=000000" height="40" alt="Java" title="Java"/>
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" height="40" alt="arduino logo" title="Arduino"/>
+  <img src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" height="40" alt="Arduino" title="Arduino"/>
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" height="40" alt="MySQL logo" title="MySQL"/>
+  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" height="40" alt="MySQL" title="MySQL"/>
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000" height="40" alt="PHP logo" title="PHP"/>
+  <img src="https://img.icons8.com/?size=100&id=baihjTL3IBX9&format=png&color=000000" height="40" alt="Django" title="Django"/>
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=baihjTL3IBX9&format=png&color=000000" height="40" alt="DJango logo" title="Django"/>
+  <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" height="40" alt="Bootstrap" title="Bootstrap"/>
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" height="40" alt="Bootstrap logo" title="Bootstrap"/>
+  <img src="https://img.icons8.com/?size=100&id=9AHxUOg7E9q2&format=png&color=000000" height="40" alt="Firebase" title="Firebase"/>
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=9AHxUOg7E9q2&format=png&color=000000" height="40" alt="Firebase logo" title="Firebase"/>
+  <img src="https://img.icons8.com/?size=100&id=1Jl2zpR0qXAw&format=png&color=000000" height="40" alt="JupyterNotebook" title="JupyterNotebook"/>
+</div>
+
+###
+
+<h3 align="left">Estou aprendendo:</h3>
+<div align="center">
+  <img src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000" height="40" alt="PHP" title="PHP"/>
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=1Jl2zpR0qXAw&format=png&color=000000" height="40" alt="JupyterNotebook logo" title="JupyterNotebook"/>
+  <img src="https://img.icons8.com/?size=100&id=Wln8Z3PcXanx&format=png&color=000000" height="40" alt="Docker" title="Docker"/>
   <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=UGrLCnKJf6Px&format=png&color=000000" height="40" alt="Godot" title="Godot"/>
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=en2FZIAZdquE&format=png&color=000000" height="40" alt="Git" title="Git"/>
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=17836&format=png&color=000000" height="40" alt="Android" title="Android"/>
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" height="40" alt="Figma" title="Figma"/>
+</div>
+
+###
+
+<h2 align="left">🚀 Meus Projetos</h2>
+<p align="left">Aqui estão alguns dos meus projetos mais recentes:</p>
+<ul>
+  <li><a href="https://github.com/jailsonneve/Projetos-Html/tree/main/Projetos/loja" target="_blank">Loja Online Simples</a> - Uma aplicação web simples para e-commerce, onde usuários podem comprar e vender produtos.</li>
+  <li><a href="#aindaNaoPresente" target="_blank">Portfólio Django</a> - Um site desenvolvido com Django para hospedar portfólios de diferentes usuários.</li>
+</ul>
+
+###
+
+<h2 align="left">🎮 Meus Hobbies</h2>
+<p align="left">Além de programar, gosto de jogar os seguintes jogos:</p>
+<ul>
+  <li>War Thunder</li>
+  <li>Warframe</li>
+  <li>Roblox</li>
+  <li>Minecraft</li>
+  <li>Terraria</li>
+  <li>Palworld</li>
+  <li>Undertale</li>
+  <!-- Adicione mais jogos conforme desejar -->
+</ul>
+
+###
+
+<h2 align="left">🔥 Meus Status:</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jailsonneve&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img width="12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jailsonneve&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jailsonneve&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jailsonneve&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jailsonneve&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
 
+<h2 align="left">📱 Contato:</h2>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.instagram.com/arthur.dai.52" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/jailsonneve" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
+  </a>
+  <a href="mailto:daiarthur053@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
 </div>
 
-
 ###
 
+<h2 align="left">👀 Quantas pessoas visitaram meu perfil?</h2>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jailsonneve/count.svg?"  />
-</div>
-
-###
-
-<h3 align="left">🔥   Meus Status :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jailsonneve&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://profile-counter.glitch.me/jailsonneve/count.svg?" />
 </div>
