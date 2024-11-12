@@ -74,16 +74,14 @@
 ###
 
 <h2 align="left">🎮 Meus Hobbies</h2>
-<p align="left">Além de programar, gosto de jogar os seguintes jogos:</p>
 <ul>
-  <li>War Thunder</li>
-  <li>Warframe</li>
-  <li>Roblox</li>
-  <li>Minecraft</li>
-  <li>Terraria</li>
-  <li>Palworld</li>
-  <li>Undertale</li>
-  <!-- Adicione mais jogos conforme desejar -->
+  <li>Programar</li>
+  <li>Jogar</li>
+  <li>Fazer Caminhadas</li>
+  <li>Conversar</li>
+  <li>Ver Filmes, Séries e Animes</li>
+  <li>Eventos de Tecnologia</li>
+  <li>Ver/Fazer Memes</li>
 </ul>
 
 ###
