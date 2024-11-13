@@ -103,7 +103,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jailsonneve&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=jailsonneve&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -127,3 +127,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/jailsonneve/count.svg?" />
 </div>
+
+###
