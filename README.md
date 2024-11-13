@@ -108,7 +108,7 @@
 
 ###
 
-<h2 align="left">📱 Contato:</h2>
+<h2 align="left">📬 Contato:</h2>
 <div align="center">
   <a href="https://www.instagram.com/arthur.dai.52" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
