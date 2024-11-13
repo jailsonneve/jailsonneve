@@ -36,13 +36,15 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" height="40" alt="MySQL" title="MySQL"/>
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=baihjTL3IBX9&format=png&color=000000" height="40" alt="Django" title="Django"/>
+  <img src="https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000" height="40" alt="Django" title="Django"/>
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" height="40" alt="Bootstrap" title="Bootstrap"/>
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=9AHxUOg7E9q2&format=png&color=000000" height="40" alt="Firebase" title="Firebase"/>
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=1Jl2zpR0qXAw&format=png&color=000000" height="40" alt="JupyterNotebook" title="JupyterNotebook"/>
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" height="40" alt="Visual Studio Code" title="Visual Studio Code"/>
 </div>
 
 ###
@@ -57,7 +59,7 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=en2FZIAZdquE&format=png&color=000000" height="40" alt="Git" title="Git"/>
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=17836&format=png&color=000000" height="40" alt="Android" title="Android"/>
+  <img src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000" height="40" alt="Android Studio" title="Android Studio"/>
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" height="40" alt="Figma" title="Figma"/>
 </div>
