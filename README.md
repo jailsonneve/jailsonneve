@@ -102,6 +102,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jailsonneve&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
 <h2 align="left">📱 Contato:</h2>
 <div align="center">
   <a href="https://www.instagram.com/arthur.dai.52" target="_blank">
