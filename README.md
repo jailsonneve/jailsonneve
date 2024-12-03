@@ -73,6 +73,7 @@
 <ul>
   <li><a href="https://github.com/jailsonneve/Projetos-Html/tree/main/Projetos/loja" target="_blank">Loja Online Simples</a> - Uma aplicação web simples que simula uma loja online, onde usuários podem adicionar, remover itens do carrinho. Além de claro, calculo do valor à pagar. Terá mais atualizações</li>
   <li><a href="#aindaNaoPresente" target="_blank">Portfólio Django</a> - Um site em desenvolvimento com Django para hospedar portfólios de diferentes usuários. Com o objetivo de dar mais visibilidade ao usuário no mercado de trabalho.</li>
+    <li><a href="#aindaNaoPresente" target="_blank">Estação Meteorologica Usando ESP32</a> - Código arduino para monitoramento climático, além de uma página web para a visualização dos dados, usando o chart.js para a criação de gráficos</li>
 </ul>
 
 ###
