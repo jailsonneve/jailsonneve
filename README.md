@@ -1,16 +1,17 @@
 <h1 align="left">Olá, eu sou o Arthur Henrique Dai 👋</h1>
 
-<p align="left">Tenho 17 anos, sou de <strong>Cascavel, Paraná, Brasil</strong>, e estudo no <strong>IFPR - Campus Cascavel</strong> no curso técnico de informática.</p>
+<p align="left">Tenho 17 anos, sou de <strong>Cascavel, Paraná, Brasil</strong></p>
 
 ###
 
 <h2 align="left">👤 Sobre Mim</h2>
 <p align="left">
   ✨ Sou apaixonado por programar e resolver bugs desde sempre. <br>
-  📚 Atualmente, estou no <strong>IFPR</strong> focado em programação e tecnologia.<br>
+  📚 Atualmente, terminei o ensino médio no <strong>IFPR</strong>, focando em programação e tecnologia.<br>
   🎯 Minhas metas são:
   <ul>
     <li>Passar na <strong>Unioeste</strong> ou ingressar no <strong>TADS</strong> do <strong>IFPR - Campus Cascavel</strong></li>
+    <li>Passar no <strong>Concurso Público de Admissão às Escolas de Aprendizes-Marinheiros (CPAEAM)</strong> em <strong>Florianópolis</strong> Santa Catarina <strong>(SC)</strong></li>
     <li>Me tornar um programador melhor e evoluir como pessoa</li>
     <li>Programar principalmente para <strong>Inteligência Artificial (IA)</strong> e <strong>jogos</strong></li>
   </ul>
