@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">🛠️ Minhas Habilidades</h2>
+<h2 align="left">🛠️ Minhas Habilidades de Desenvolvedor</h2>
 
 <h3 align="left">🌟 Tenho experiência em:</h3>
 <div align="center">
