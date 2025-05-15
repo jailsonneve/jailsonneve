@@ -82,7 +82,10 @@
 <h2 align="left">📁 Meus Principais Repositórios:</h2>
 <p align="left">Aqui estão alguns dos meus repositórios mais interessantes:</p>
 <ul>
-  <li><a href="https://github.com/jailsonneve/Projetos-Html" target="_blank">Repositório com Projetos HTML5</a> - Um repositório simples, onde faço uso principalmente de html5, js, bootstrap e css</li>
+  <li><a href="https://github.com/jailsonneve/Projetos-Html" target="_blank">Repositório com Projetos HTML5</a> - Um repositório simples, onde faço uso principalmente de html5, js, bootstrap e css.</li>
+  <li><a href="https://github.com/jailsonneve/Projetos-Java" target="_blank">Repositório com Projetos Java</a> - Um repositório simples, onde faço uso de bibliotecas java e programação orientada a objetos. Terá alterações mais futuramente.</li>
+  <li><a href="https://github.com/jailsonneve/Projetos-PY" target="_blank">Repositório com Projetos Python</a> - Um repositório simples, onde faço uso de bibliotecas python. Terá alterações mais futuramente.</li>
+  <li><a href="https://github.com/jailsonneve/TCC" target="_blank">Repositório com meu TCC do ensino Médio</a> - Um repositório simples, onde armazeno meu site para o gerenciamento de dispositivos IoT conectados a rede. Terá alterações mais futuramente.</li>
 </ul>
 
 ###
